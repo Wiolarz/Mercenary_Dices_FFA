@@ -55,7 +55,7 @@ def cycle(board, players):
 
                 # adding dice
                 player_dice = player[dice_index]
-                table[row][player_index].append(player_dice)  # adding dice to the pool
+                table[row][player_index+1].append(player_dice)  # adding dice to the pool
             player_index += 1
     won_neutral_dice = []
     for row in table:
