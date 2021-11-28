@@ -3,7 +3,7 @@ import random
 ''' Description:
 Its a dice based FFA game. Each player goal is to increase their army by increasing it's size neutral forces.
 In order to "convince" a neutral mercenary is to beat him in a fight.
-Each fighter a X sided dice, which fights by rolling itself and counting it's score.
+Each fighter is an X sided die, which fights by rolling itself and counting it's score.
 
 The gameplay consist only of making choices around placements of players army dices
 in corresponding neutral fighters spots in order to attack them.
